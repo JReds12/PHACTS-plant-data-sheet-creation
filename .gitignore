@@ -1,0 +1,8 @@
+# R specific ignores
+.RData
+.RHistory
+.Rproj.user/
+*.Rproj
+
+# macOS specific ignores
+.DS_store
